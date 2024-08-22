@@ -26,3 +26,7 @@
 * import webdriver
 * from selenium.common.exceptions import TimeoutException
 * from selenium import webdriver
+# Screenshort
+![image](https://github.com/user-attachments/assets/632dfb3c-44b5-47e0-88cb-7cccd7d32ca8)
+![image](https://github.com/user-attachments/assets/ef8ce1a1-8857-430d-b75d-ec222463b94a)
+

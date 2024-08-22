@@ -19,3 +19,10 @@
 # Web app - Streamlit:
 * With the help of Streamlit, you can create an interactive application similar to RedBus by designing a user-friendly interface that allows users to search for bus routes, view available buses, and get details like departure times and prices.
 # PACKAGES AND LIBRARIES
+* pandas as pd
+* mysql.connector
+* import time
+* streamlit as slt
+* import webdriver
+* from selenium.common.exceptions import TimeoutException
+* from selenium import webdriver
